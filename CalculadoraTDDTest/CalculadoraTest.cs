@@ -29,7 +29,7 @@ public class CalculadoraTest
     }
 
     [Theory]
-    [InlineData (2, 1, 1)]
+    [InlineData (2, 1, 2)]
     [InlineData (10, 2, 5)]
     public void TestarDividisao(int num1, int num2, int resultado)
     {
