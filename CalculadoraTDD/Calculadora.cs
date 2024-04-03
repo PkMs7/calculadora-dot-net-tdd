@@ -9,7 +9,7 @@ namespace CalculadoraTDD
 
         public int Subtrair(int num1, int num2)
         {
-            return 0;
+            return num1 - num2;
         }
 
         public int Dividir(int num1, int num2)
