@@ -4,7 +4,7 @@ namespace CalculadoraTDD
     {
         public int Somar(int num1, int num2)
         {
-            return 0;
+            return num1 + num2;
         }
 
         public int Subtrair(int num1, int num2)
